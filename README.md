@@ -1,5 +1,5 @@
-# BDwithAppointmentSystem
-**Blood Donation Management System with Appointment Scheduling**
+# Blood Donation Management System with Appointment Scheduling
+
 
 
 [📺 Watch the System Demo](https://github.com/user-attachments/assets/897194ee-a6e9-431e-a286-f998f80c59bf)
