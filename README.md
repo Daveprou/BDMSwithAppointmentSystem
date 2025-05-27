@@ -94,7 +94,7 @@ Each option is displayed as a separate form for clarity and usability:
 - Username is not editable
 
 ### 💉 Donate
-- Schedule an appointment (only once if new)
+- Schedule an appointment 
 - No search or table — appointment is linked to the logged-in user
 - Blood type can be set only once (initial registration)
 
