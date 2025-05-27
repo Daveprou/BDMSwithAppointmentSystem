@@ -116,9 +116,9 @@ By combining technology and healthcare, this project enhances community health a
 
 ---
 
-## 💻 Installation & Requirements
+## 💻 Software used
 
-### Requirements:
+### Software used:
 - Visual Studio 2022
 - .NET Framework 
 - XAMPP MySql (for the database backend)
