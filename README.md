@@ -118,7 +118,6 @@ By combining technology and healthcare, this project enhances community health a
 
 ## 💻 Software used
 
-### Software used:
 - Visual Studio 2022
 - .NET Framework 
 - XAMPP MySql (for the database backend)
