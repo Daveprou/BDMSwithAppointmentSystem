@@ -5,7 +5,7 @@
 [📺 Watch the System Demo](https://github.com/user-attachments/assets/897194ee-a6e9-431e-a286-f998f80c59bf)
 
 ## 📌 Project Overview
-This is a group project developed for educational purposes. I am responsible for the backend, using **C# Windows Forms Application (.NET Framework)** in **Visual Studio**.
+This is a group project developed for educational purposes. I am responsible for the backend and helped with the design, using **C# Windows Forms Application (.NET Framework)** in **Visual Studio**.
 
 The system is designed to modernize and streamline blood donation operations by enabling online appointment scheduling and efficient data management. It features **login/signup**, **admin and user dashboards**, and full **CRUD functionality** for managing donors, blood stock, transfers, and patients.
 
